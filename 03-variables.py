@@ -1,14 +1,15 @@
 
 # Primera variable
 
-saludo = "Hola Mundo 2"
-print("saludo")
+saludo = "Hola Mundo"
+
 
 # Segunda variable
 name = "BTI"
 lastname = "CNL"
 year = 2025
 
+print(saludo)
 print(name)
 print(lastname)
 print(year)

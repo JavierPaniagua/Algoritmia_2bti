@@ -4,6 +4,17 @@
 
 Es un espacio en la memoria para almacenar información que puede ser utilizada en los programas.
 
+--
+--
+
+
+
+
+
+
+
+
+
 
 🔹 1. ¿Qué es un objeto en Python?
 
